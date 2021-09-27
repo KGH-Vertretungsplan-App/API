@@ -14,7 +14,7 @@
 
 👤 **KGH-Vertretungsplan-App**
 
-* Website: https://kghalle.tk
+* Website: https://kgh.byzero.dev
 * Github: [@KGH-Vertretungsplan-App](https://github.com/KGH-Vertretungsplan-App)
 
 ## 🤝 Contributing
